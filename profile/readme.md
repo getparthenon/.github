@@ -10,12 +10,6 @@
 * Provide bug fixes, performance fixes, and documentation fixes.
 * Allow developers to focus on custom business logic instead of generic functionality.
 
-### Project Non-goals
-
-* Supporting other frameworks or languages
-* Provide custom business logic
-* Provide a FOSS solution
-
 ## Repositories
 
 * [getparthenon/parthenon-dev](https://github.com/getparthenon/parthenon-dev) is the monorepo development repository.
