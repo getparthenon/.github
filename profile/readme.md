@@ -12,7 +12,8 @@
 
 ## Repositories
 
-* [getparthenon/monorepo](https://github.com/getparthenon/parthenon-dev) is the monorepo development repository.
+* [getparthenon/monorepo](https://github.com/getparthenon/monorepo) is the monorepo development repository.
+* [getparthenon/parthenon](https://github.com/getparthenon/parthenon) is the parthenon bundle repository.
 * [getparthenon/skeleton](https://github.com/getparthenon/skeleton) is the repository for the skeleton application.
 * [getparthenon/parthenon](https://github.com/getparthenon/parthenon) is the repository mirror for the Parthenon bundle
 * [getparthenon/vue-menu](https://github.com/getparthenon/vue-menu) is the repository mirror for the vue-menu library.
